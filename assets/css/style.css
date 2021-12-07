@@ -1208,3 +1208,19 @@ section {
     margin-top: 100px;
     padding: 0;
   }
+
+
+
+
+
+  /*============================================================
+# -------------------------Registrar-----------------------------
+==============================================================*/
+#registrar{
+  width: 40%;
+  height: 70px;
+  background-size: cover;
+  position: relative;
+  margin-top: 100px;
+  padding: 0;
+}
